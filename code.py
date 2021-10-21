@@ -1,1 +1,1 @@
-first line
+int a=10
